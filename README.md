@@ -18,6 +18,6 @@
 
 Feel free to explore my repositories to see my work and contributions. If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
 
+- **Resume**: [My Resume](Resume.md)
 - **Email**: [info@peaceful.trade](mailto:info@peaceful.trade)
 - **Facebook**: [Jesse Sanford](https://www.facebook.com/jesse.sanford.315)
-- **Resume**: [My Resume](Resume.md)
